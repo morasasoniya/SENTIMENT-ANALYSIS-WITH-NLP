@@ -2,9 +2,9 @@
 
 *COMPANY*: COOTECH IT SOLUTIONS 
 
-*NAME*:peddinti srinu 
+*NAME*:Morasa Soniya
 
-*INTERN ID*：CTIS8185 
+*INTERN ID*：CTIS8213 
 
 *DOMAIN*：Machine Learning 
 
